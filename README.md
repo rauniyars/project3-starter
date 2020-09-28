@@ -3,7 +3,7 @@
 This repository contains the starter files for peer review assignments in
 Computer Science 600 Fall 2020. You are to use this repository for all 
 peer review tasks in this course.  To learn more about the peer review exercises, please
-visit the course syllabus found in [Computer Science 600 Fall 2019 GitHub
+visit the course syllabus found in [Computer Science 600 Fall 2020 GitHub
 Organization](https://github.com/Allegheny-Computer-Science-600-F2020).
 
 ## Accessing the Peer Editing Template
